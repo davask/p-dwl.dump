@@ -1,3 +1,4 @@
 1.0.0: First version based on Twig Dump
 1.0.1: Integrate debug conditional
 1.0.2: Change Icon and add thanks to Inetis
+1.0.3: update to support Laravel 6
